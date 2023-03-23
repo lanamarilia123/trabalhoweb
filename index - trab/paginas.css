@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+*{
+    margin: 0; 
+    padding: 0;
+}
+
+body{
+    background-image: url('index_arquivos/nada2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu{
+    height: 10vh;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    background-color:rgb(65, 65, 177);
+ }
+ 
+ .lista{
+    display: flex;
+    font-size: 21px;
+ }
+ 
+ h1{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+ }
+ #logo{
+    width: 40px;
+}
+
+
+ li{
+    list-style: none;
+    margin-left: 120px;
+    color: white;
+    
+ }
+ 
+
+.h1{
+    text-align: center;
+    border-width: 6px;
+    font-style: arial, helvet;
+    border-color:white;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+p{
+    font-style: Arial;
+    font-size: 17px;
+    text-align: justify;
+    color:white;
+    justify-content: center;
+    margin-inline: 200px;
+     
+}
+#p2{
+    font-style: Arial;
+    font-size: 17px;
+    text-align: justify;
+    color:white;
+    margin-inline: 200px;
+}
+
+.img{
+    margin-left: 40%;
+    width: 500px; 
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.img2{
+    margin-left: 40%;
+    width: 300px; 
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#imgd{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+   
+}
+.titulo{
+   font-family: italic;
+   text-align: center;
+   color:white;
+   margin-top: 2%;
+   font-size: 50px;
+}
+
+#camp{ 
+    font-family: italic;
+    text-align: center;
+    color:white;
+    margin-top: 2%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.b2{
+    display: flex;
+    justify-content:center; 
+    font-style: Arial;
+    font-size: 17px;
+    text-align: justify;
+    color:white;
+    margin-inline: 200px;
+   
+}
+
+.video{
+    display:flex;
+    justify-content:center;
+}
+
+#central{
+    text-align:center;
+    color:white;
+}
+
